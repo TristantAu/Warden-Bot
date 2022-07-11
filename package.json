@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.9.3",
     "discord": "^0.8.2",
     "discord.js": "^13.8.1",
     "do": "^0.6.2",
+    "dotenv": "^16.0.1",
     "tenv": "^0.2.3"
   }
 }
